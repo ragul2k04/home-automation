@@ -1,0 +1,9 @@
+Flask
+google-genai
+speechrecognition
+pyttsx3
+numpy
+scikit-learn
+gunicorn
+requests
+python-dotenv
