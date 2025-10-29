@@ -7,6 +7,7 @@ import spotipy
 from google import genai
 from spotipy.oauth2 import SpotifyOAuth
 import re
+
 # Add these imports at the top with other imports
 import google.generativeai as genai
 from google.api_core.exceptions import InvalidArgument
@@ -470,5 +471,19 @@ def callback():
         logger.error(f"Spotify callback error: {str(e)}")
         return f"Authentication failed: {str(e)}", 500
 
+
+# ✅ Move this BELOW all route definitions
+import threading
+import os
+
+def run_speech_module():
+    """Runs the speech-to-text listener as a background task."""
+    os.system("python speech_to_text.py")
+
+
 if __name__ == "__main__":
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    # Start speech recognition script in a background thread
+    threading.Thread(target=run_speech_module, daemon=True).start()
+
+    # Start the Flask app
+    app.run(host="0.0.0.0", port=5000, debug=True)
