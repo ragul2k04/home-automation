@@ -1,0 +1,1320 @@
+[
+    {
+        "command": "turn_on_light",
+        "status": "success",
+        "timestamp": "2025-03-28 11:55:42"
+    },
+    {
+        "command": "play_music",
+        "status": "success",
+        "timestamp": "2025-03-28 11:55:53"
+    },
+    {
+        "command": "turn_on_fan",
+        "status": "success",
+        "timestamp": "2025-03-28 16:13:21"
+    },
+    {
+        "command": "play_music",
+        "status": "success",
+        "timestamp": "2025-03-28 16:13:30"
+    },
+    {
+        "command": "unlock_front_door",
+        "status": "success",
+        "timestamp": "2025-03-28 16:13:53"
+    },
+    {
+        "command": "turn_off_light",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "play_music",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn_off_fan",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn on light",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn on fan",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "play music",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn off fan",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "goodbye",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "exit",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "shirt shirt",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "set",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn on light",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "play music",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "stop music",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "play_music",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn_on_light",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn_off_fan",
+        "status": "success",
+        "timestamp": "N/A"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 13:37:42"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 13:37:45"
+    },
+    {
+        "command": "activate_night_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 13:38:26"
+    },
+    {
+        "command": "activate_away_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 13:38:29"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:40:49"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:40:58"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:41:09"
+    },
+    {
+        "command": "activate_night_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:42:23"
+    },
+    {
+        "command": "activate_away_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:42:27"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:48:58"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:49:00"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 14:49:01"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 22
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 14:49:03"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 30
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 14:49:10"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 15:00:03"
+    },
+    {
+        "command": "activate_movie_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 15:00:18"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 15:00:28"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 17
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 15:00:37"
+    },
+    {
+        "command": "exit",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 15:02:32"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 16:38:44"
+    },
+    {
+        "command": "exit",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 16:38:59"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 16:43:08"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 16:43:11"
+    },
+    {
+        "command": "lock_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:30:22"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:30:42"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:30:52"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:30:58"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:31:04"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:31:11"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:31:30"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:35:52"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:35:57"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 23
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:05"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 23
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:12"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:27"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:37"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:42"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:36:49"
+    },
+    {
+        "command": "lock_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:37:24"
+    },
+    {
+        "command": "unlock_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:37:48"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:38:10"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 22
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 17:39:08"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:39:13"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:39:14"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:39:15"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:39:16"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:58:49"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:58:59"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:59:10"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 16
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 17:59:31"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 17:59:40"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:18"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:21"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:23"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:25"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:26"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 22
+        },
+        "status": "success",
+        "timestamp": "2025-04-06 18:38:29"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 21:29:21"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-06 21:29:55"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:53:45"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:53:56"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:53:59"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:02"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:06"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:08"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:10"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:11"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:13"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:14"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:15"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:16"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 25
+        },
+        "status": "success",
+        "timestamp": "2025-04-18 14:54:21"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:12:24"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:12:30"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:12:35"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:12:45"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:12:57"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:15:00"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:47:54"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:47:56"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:38"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:41"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:46"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:50"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:51"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 25
+        },
+        "status": "success",
+        "timestamp": "2025-04-18 15:48:55"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 25
+        },
+        "status": "success",
+        "timestamp": "2025-04-18 15:49:00"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:49:16"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:49:25"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:49:33"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:05"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:06"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:08"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:09"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:11"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:12"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:16"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:20"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:24"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:25"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:28"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-18 15:51:35"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:09:04"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:09:06"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:09:07"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:09:58"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:10"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 26
+        },
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:26"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:30"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:31"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:35"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-21 10:10:36"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:30:57"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:30:58"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:30:59"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:30:59"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:00"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:01"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:01"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 26
+        },
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:05"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 26
+        },
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:05"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:07"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:07"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:24"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:28"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:31:33"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:48:11"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:48:11"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:48:33"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 15:48:36"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:06"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:13"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:36"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:45"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:52"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:02:52"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:03:18"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:03:26"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:03:34"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 23
+        },
+        "status": "success",
+        "timestamp": "2025-04-25 17:03:47"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:03:57"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-25 17:04:29"
+    },
+    {
+        "command": "play_music",
+        "params": {
+            "song_name": "Sunflower - Spider-Man: Into the Spider-Verse"
+        },
+        "status": "success",
+        "timestamp": "2025-04-26 00:08:37"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:09:06"
+    },
+    {
+        "command": "play_music",
+        "params": {
+            "song_name": "star for"
+        },
+        "status": "success",
+        "timestamp": "2025-04-26 00:09:26"
+    },
+    {
+        "command": "play_music",
+        "params": {
+            "song_name": "starboy"
+        },
+        "status": "success",
+        "timestamp": "2025-04-26 00:09:38"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:10:14"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:11:04"
+    },
+    {
+        "command": "play_music",
+        "params": {
+            "song_name": "Hello?"
+        },
+        "status": "success",
+        "timestamp": "2025-04-26 00:11:30"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:11:34"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:23:30"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:23:48"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:36:16"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:36:36"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:37:40"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:37:42"
+    },
+    {
+        "command": "play_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:39:06"
+    },
+    {
+        "command": "play_music",
+        "params": {
+            "song_name": "sunflower"
+        },
+        "status": "success",
+        "timestamp": "2025-04-26 00:39:20"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:40:42"
+    },
+    {
+        "command": "activate_movie_mode",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:41:17"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:41:37"
+    },
+    {
+        "command": "stop_music",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-04-26 00:43:30"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:36:21"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:36:43"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:37:03"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:38:28"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:38:41"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:44:50"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:44:56"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:44:59"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:01"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:04"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:06"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:13"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:14"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:16"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:45:18"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:51:05"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:51:07"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:51:37"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:52:22"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 18:52:23"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 25
+        },
+        "status": "success",
+        "timestamp": "2025-10-29 18:52:32"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:08:08"
+    },
+    {
+        "command": "turn_off_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:08:39"
+    },
+    {
+        "command": "turn_on_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:09:01"
+    },
+    {
+        "command": "turn_off_fan",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:09:21"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:09:45"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:10:52"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:10:57"
+    },
+    {
+        "command": "lock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:11:43"
+    },
+    {
+        "command": "set_ac_temperature",
+        "params": {
+            "temperature": 26
+        },
+        "status": "success",
+        "timestamp": "2025-10-29 19:12:07"
+    },
+    {
+        "command": "unlock_front_door",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-29 19:12:35"
+    },
+    {
+        "command": "turn_on_light",
+        "params": {},
+        "status": "success",
+        "timestamp": "2025-10-30 00:55:55"
+    }
+]

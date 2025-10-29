@@ -1,0 +1,389 @@
+2025-04-06 17:56:45,417 - train_intents - INFO - Starting intent training...
+2025-04-06 17:56:45,469 - train_intents - INFO - Cross-validation scores: [0.88513514 0.87162162 0.89189189 0.86486486 0.86486486]
+2025-04-06 17:56:45,469 - train_intents - INFO - Mean CV score: 0.8757
+2025-04-06 17:56:45,477 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.33      0.50         6
+               help       1.00      1.00      1.00        13
+    lock_front_door       1.00      1.00      1.00        13
+         play_music       0.94      0.83      0.88        18
+ set_ac_temperature       0.73      1.00      0.85        11
+       status_check       0.94      1.00      0.97        15
+         stop_music       0.79      0.92      0.85        12
+       turn_off_fan       0.67      1.00      0.80        10
+     turn_off_light       1.00      0.31      0.47        13
+        turn_on_fan       1.00      0.62      0.76        13
+      turn_on_light       0.55      1.00      0.71        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.85       185
+          macro avg       0.88      0.83      0.82       185
+       weighted avg       0.89      0.85      0.84       185
+
+2025-04-06 17:56:45,902 - train_intents - INFO - Training completed successfully
+2025-04-06 17:57:54,144 - train_intents - INFO - Starting intent training...
+2025-04-06 17:57:54,173 - train_intents - INFO - Cross-validation scores: [0.87837838 0.87162162 0.87162162 0.87162162 0.84459459]
+2025-04-06 17:57:54,173 - train_intents - INFO - Mean CV score: 0.8676
+2025-04-06 17:57:54,181 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       0.83      0.83      0.83         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.50      0.67         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      0.92      0.96        13
+         play_music       0.93      0.78      0.85        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.79      0.92      0.85        12
+       turn_off_fan       0.64      0.90      0.75        10
+     turn_off_light       1.00      0.31      0.47        13
+        turn_on_fan       0.80      0.62      0.70        13
+      turn_on_light       0.55      1.00      0.71        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.84       185
+          macro avg       0.85      0.82      0.82       185
+       weighted avg       0.87      0.84      0.83       185
+
+2025-04-06 17:57:54,578 - train_intents - INFO - Training completed successfully
+2025-04-06 18:36:53,756 - train_intents - INFO - Starting intent training...
+2025-04-06 18:36:53,786 - train_intents - INFO - Cross-validation scores: [0.89189189 0.86486486 0.89189189 0.85135135 0.86486486]
+2025-04-06 18:36:53,786 - train_intents - INFO - Mean CV score: 0.8730
+2025-04-06 18:36:53,792 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       0.67      0.33      0.44         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      0.92      0.96        13
+         play_music       1.00      0.78      0.88        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      0.93      0.90        15
+         stop_music       0.80      1.00      0.89        12
+       turn_off_fan       0.59      1.00      0.74        10
+     turn_off_light       0.80      0.31      0.44        13
+        turn_on_fan       0.86      0.46      0.60        13
+      turn_on_light       0.53      0.91      0.67        11
+  unlock_front_door       0.83      1.00      0.91        10
+
+           accuracy                           0.82       185
+          macro avg       0.83      0.81      0.79       185
+       weighted avg       0.85      0.82      0.81       185
+
+2025-04-06 18:36:54,218 - train_intents - INFO - Training completed successfully
+2025-04-06 21:25:48,422 - train_intents - INFO - Starting intent training...
+2025-04-06 21:25:48,489 - train_intents - INFO - Cross-validation scores: [0.87162162 0.87837838 0.87837838 0.87162162 0.83783784]
+2025-04-06 21:25:48,489 - train_intents - INFO - Mean CV score: 0.8676
+2025-04-06 21:25:48,506 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.33      0.50         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      1.00      1.00        13
+         play_music       0.93      0.78      0.85        18
+ set_ac_temperature       0.73      1.00      0.85        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.73      0.92      0.81        12
+       turn_off_fan       0.50      0.60      0.55        10
+     turn_off_light       0.86      0.46      0.60        13
+        turn_on_fan       0.64      0.54      0.58        13
+      turn_on_light       0.59      0.91      0.71        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.82       185
+          macro avg       0.83      0.80      0.80       185
+       weighted avg       0.84      0.82      0.82       185
+
+2025-04-06 21:25:49,310 - train_intents - INFO - Training completed successfully
+2025-04-18 14:36:14,485 - train_intents - INFO - Starting intent training...
+2025-04-18 14:36:14,527 - train_intents - INFO - Cross-validation scores: [0.88513514 0.87162162 0.91216216 0.85135135 0.89189189]
+2025-04-18 14:36:14,527 - train_intents - INFO - Mean CV score: 0.8824
+2025-04-18 14:36:14,535 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       0.83      0.83      0.83         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.50      0.67         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      0.92      0.96        13
+         play_music       1.00      0.78      0.88        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.80      1.00      0.89        12
+       turn_off_fan       0.60      0.90      0.72        10
+     turn_off_light       0.83      0.38      0.53        13
+        turn_on_fan       0.88      0.54      0.67        13
+      turn_on_light       0.53      0.91      0.67        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.84       185
+          macro avg       0.85      0.82      0.82       185
+       weighted avg       0.87      0.84      0.83       185
+
+2025-04-18 14:36:30,260 - train_intents - INFO - Starting intent training...
+2025-04-18 14:36:30,297 - train_intents - INFO - Cross-validation scores: [0.87837838 0.87837838 0.89864865 0.85810811 0.86486486]
+2025-04-18 14:36:30,297 - train_intents - INFO - Mean CV score: 0.8757
+2025-04-18 14:36:30,305 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.50      0.67         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      1.00      1.00        13
+         play_music       0.88      0.83      0.86        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.77      0.83      0.80        12
+       turn_off_fan       0.42      0.50      0.45        10
+     turn_off_light       0.78      0.54      0.64        13
+        turn_on_fan       0.55      0.46      0.50        13
+      turn_on_light       0.60      0.82      0.69        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.82       185
+          macro avg       0.82      0.80      0.80       185
+       weighted avg       0.83      0.82      0.81       185
+
+2025-04-18 14:36:30,719 - train_intents - INFO - Training completed successfully
+2025-04-22 10:12:00,944 - train_intents - INFO - Starting intent training...
+2025-04-22 10:12:01,023 - train_intents - INFO - Cross-validation scores: [0.88513514 0.89864865 0.85135135 0.85810811 0.85810811]
+2025-04-22 10:12:01,023 - train_intents - INFO - Mean CV score: 0.8703
+2025-04-22 10:12:01,037 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       1.00      0.33      0.50         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      1.00      1.00        13
+         play_music       0.88      0.83      0.86        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.71      0.83      0.77        12
+       turn_off_fan       0.64      0.90      0.75        10
+     turn_off_light       1.00      0.31      0.47        13
+        turn_on_fan       0.89      0.62      0.73        13
+      turn_on_light       0.55      1.00      0.71        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.84       185
+          macro avg       0.86      0.82      0.81       185
+       weighted avg       0.87      0.84      0.83       185
+
+2025-04-22 10:12:02,003 - train_intents - INFO - Training completed successfully
+2025-04-25 15:28:44,684 - train_intents - INFO - Starting intent training...
+2025-04-25 15:28:44,721 - train_intents - INFO - Cross-validation scores: [0.85810811 0.85135135 0.85810811 0.82432432 0.85135135]
+2025-04-25 15:28:44,722 - train_intents - INFO - Mean CV score: 0.8486
+2025-04-25 15:28:44,730 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       0.83      0.83      0.83         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.50      0.50      0.50         4
+           farewell       0.80      0.80      0.80        10
+           greeting       0.75      0.50      0.60         6
+               help       1.00      0.85      0.92        13
+    lock_front_door       1.00      0.92      0.96        13
+         play_music       0.93      0.78      0.85        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      1.00      0.94        15
+         stop_music       0.79      0.92      0.85        12
+       turn_off_fan       0.59      1.00      0.74        10
+     turn_off_light       0.80      0.31      0.44        13
+        turn_on_fan       1.00      0.46      0.63        13
+      turn_on_light       0.50      0.91      0.65        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.82       185
+          macro avg       0.83      0.81      0.80       185
+       weighted avg       0.86      0.82      0.81       185
+
+2025-04-25 15:28:45,260 - train_intents - INFO - Training completed successfully
+2025-04-25 16:59:09,647 - train_intents - INFO - Starting intent training...
+2025-04-25 16:59:09,691 - train_intents - INFO - Cross-validation scores: [0.86486486 0.86486486 0.88513514 0.85135135 0.85810811]
+2025-04-25 16:59:09,691 - train_intents - INFO - Mean CV score: 0.8649
+2025-04-25 16:59:09,700 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.60      0.75      0.67         4
+           farewell       0.89      0.80      0.84        10
+           greeting       1.00      0.33      0.50         6
+               help       1.00      1.00      1.00        13
+    lock_front_door       1.00      1.00      1.00        13
+         play_music       1.00      0.83      0.91        18
+ set_ac_temperature       0.73      1.00      0.85        11
+       status_check       0.94      1.00      0.97        15
+         stop_music       0.80      1.00      0.89        12
+       turn_off_fan       0.59      1.00      0.74        10
+     turn_off_light       0.83      0.38      0.53        13
+        turn_on_fan       1.00      0.46      0.63        13
+      turn_on_light       0.56      0.91      0.69        11
+  unlock_front_door       1.00      1.00      1.00        10
+
+           accuracy                           0.85       185
+          macro avg       0.88      0.84      0.83       185
+       weighted avg       0.89      0.85      0.85       185
+
+2025-04-25 16:59:10,202 - train_intents - INFO - Training completed successfully
+2025-10-29 16:46:46,743 - train_intents - INFO - Starting intent training...
+2025-10-29 16:46:46,781 - train_intents - INFO - Cross-validation scores: [0.87162162 0.88513514 0.89864865 0.85810811 0.85810811]
+2025-10-29 16:46:46,781 - train_intents - INFO - Mean CV score: 0.8743
+2025-10-29 16:46:46,795 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      0.83      0.91         6
+activate_movie_mode       1.00      1.00      1.00        12
+activate_night_mode       1.00      1.00      1.00         8
+               exit       0.60      0.75      0.67         4
+           farewell       0.89      0.80      0.84        10
+           greeting       0.67      0.33      0.44         6
+               help       1.00      0.92      0.96        13
+    lock_front_door       1.00      0.92      0.96        13
+         play_music       1.00      0.78      0.88        18
+ set_ac_temperature       0.79      1.00      0.88        11
+       status_check       0.88      0.93      0.90        15
+         stop_music       0.75      1.00      0.86        12
+       turn_off_fan       0.62      1.00      0.77        10
+     turn_off_light       0.80      0.31      0.44        13
+        turn_on_fan       0.88      0.54      0.67        13
+      turn_on_light       0.53      0.91      0.67        11
+  unlock_front_door       0.91      1.00      0.95        10
+
+           accuracy                           0.83       185
+          macro avg       0.84      0.83      0.81       185
+       weighted avg       0.86      0.83      0.82       185
+
+2025-10-29 16:46:47,304 - train_intents - INFO - Training completed successfully
+2025-10-29 16:56:41,508 - train_intents - INFO - Starting intent training...
+2025-10-29 16:56:41,556 - train_intents - INFO - Cross-validation scores: [0.84792627 0.87096774 0.84331797 0.83410138 0.88018433]
+2025-10-29 16:56:41,556 - train_intents - INFO - Mean CV score: 0.8553
+2025-10-29 16:56:41,566 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       0.88      0.64      0.74        11
+activate_movie_mode       1.00      1.00      1.00        16
+activate_night_mode       1.00      1.00      1.00        11
+               exit       0.69      0.50      0.58        18
+           farewell       0.80      0.92      0.86        13
+           greeting       1.00      1.00      1.00        12
+               help       1.00      0.85      0.92        20
+    lock_front_door       0.91      1.00      0.95        10
+         play_music       0.94      0.80      0.86        20
+ set_ac_temperature       1.00      1.00      1.00        16
+       status_check       0.91      1.00      0.95        20
+         stop_music       0.75      0.95      0.84        22
+       turn_off_fan       0.71      0.83      0.77        18
+     turn_off_light       0.56      0.88      0.68        16
+        turn_on_fan       0.80      0.67      0.73        18
+      turn_on_light       0.80      0.50      0.62        16
+  unlock_front_door       1.00      1.00      1.00        15
+
+           accuracy                           0.85       272
+          macro avg       0.87      0.86      0.85       272
+       weighted avg       0.86      0.85      0.85       272
+
+2025-10-29 16:56:42,058 - train_intents - INFO - Training completed successfully
+2025-10-29 17:00:05,758 - train_intents - INFO - Starting intent training...
+2025-10-29 17:00:05,796 - train_intents - INFO - Cross-validation scores: [0.84792627 0.87096774 0.84331797 0.83410138 0.88018433]
+2025-10-29 17:00:05,796 - train_intents - INFO - Mean CV score: 0.8553
+2025-10-29 17:00:05,807 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       0.88      0.64      0.74        11
+activate_movie_mode       1.00      1.00      1.00        16
+activate_night_mode       1.00      1.00      1.00        11
+               exit       0.69      0.50      0.58        18
+           farewell       0.80      0.92      0.86        13
+           greeting       1.00      1.00      1.00        12
+               help       1.00      0.85      0.92        20
+    lock_front_door       0.91      1.00      0.95        10
+         play_music       0.94      0.80      0.86        20
+ set_ac_temperature       1.00      1.00      1.00        16
+       status_check       0.91      1.00      0.95        20
+         stop_music       0.75      0.95      0.84        22
+       turn_off_fan       0.71      0.83      0.77        18
+     turn_off_light       0.56      0.88      0.68        16
+        turn_on_fan       0.80      0.67      0.73        18
+      turn_on_light       0.80      0.50      0.62        16
+  unlock_front_door       1.00      1.00      1.00        15
+
+           accuracy                           0.85       272
+          macro avg       0.87      0.86      0.85       272
+       weighted avg       0.86      0.85      0.85       272
+
+2025-10-29 17:00:06,327 - train_intents - INFO - Training completed successfully
+2025-10-29 17:05:52,268 - train_intents - INFO - Starting intent training...
+2025-10-29 17:05:52,320 - train_intents - INFO - Cross-validation scores: [0.93913043 0.92608696 0.93913043 0.93913043 0.96943231]
+2025-10-29 17:05:52,320 - train_intents - INFO - Mean CV score: 0.9426
+2025-10-29 17:05:52,329 - train_intents - INFO - 
+Classification Report:
+                     precision    recall  f1-score   support
+
+ activate_away_mode       1.00      1.00      1.00        20
+activate_movie_mode       1.00      1.00      1.00        11
+activate_night_mode       1.00      1.00      1.00        16
+               exit       1.00      0.72      0.84        18
+           farewell       0.81      1.00      0.90        13
+           greeting       1.00      0.94      0.97        17
+               help       0.94      1.00      0.97        17
+    lock_front_door       0.91      1.00      0.95        20
+         play_music       1.00      1.00      1.00        17
+ set_ac_temperature       1.00      1.00      1.00        18
+       status_check       0.94      1.00      0.97        15
+         stop_music       0.94      1.00      0.97        16
+       turn_off_fan       1.00      1.00      1.00        18
+     turn_off_light       1.00      1.00      1.00        22
+        turn_on_fan       1.00      1.00      1.00        17
+      turn_on_light       1.00      1.00      1.00        16
+  unlock_front_door       1.00      0.88      0.94        17
+
+           accuracy                           0.97       288
+          macro avg       0.97      0.97      0.97       288
+       weighted avg       0.98      0.97      0.97       288
+
+2025-10-29 17:05:52,954 - train_intents - INFO - Training completed successfully

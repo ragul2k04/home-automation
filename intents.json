@@ -1,0 +1,344 @@
+{
+    "intents": [
+      {
+        "tag": "turn_on_light",
+        "patterns": [
+          "turn on the lights",
+          "turn the lights on",
+          "switch on the lights",
+          "lights on",
+          "turn on light",
+          "i need some light",
+          "make it brighter",
+          "can you light up the room",
+          "turn on all lights",
+          "brighten the place",
+          "lights up now",
+          "switch the lights on",
+          "i want it bright",
+          "get some light in here",
+          "activate the lights"
+        ]
+      },
+      {
+        "tag": "turn_off_light",
+        "patterns": [
+          "turn off the lights",
+          "turn the lights off",
+          "switch off the lights",
+          "lights off",
+          "turn off light",
+          "make it darker",
+          "shut off the lights",
+          "kill the lights",
+          "turn all lights off",
+          "dim it down",
+          "lights out",
+          "switch lights off",
+          "no more light",
+          "darken the room",
+          "deactivate lights"
+        ]
+      },
+      {
+        "tag": "turn_on_fan",
+        "patterns": [
+          "turn on the fan",
+          "turn the fan on",
+          "switch on the fan",
+          "fan on",
+          "start the fan",
+          "i’m feeling hot",
+          "get the fan going",
+          "can you turn the fan on",
+          "fan start",
+          "cool me down",
+          "activate the fan",
+          "i need some air",
+          "turn on the cooling",
+          "spin the fan",
+          "fan up please"
+        ]
+      },
+      {
+        "tag": "turn_off_fan",
+        "patterns": [
+          "turn off the fan",
+          "turn the fan off",
+          "switch off the fan",
+          "fan off",
+          "stop the fan",
+          "it’s getting cold",
+          "shut the fan off",
+          "no more fan",
+          "turn the fan down",
+          "deactivate fan",
+          "stop cooling",
+          "fan stop now",
+          "i’m cold enough",
+          "kill the fan",
+          "switch fan off"
+        ]
+      },
+      {
+        "tag": "play_music",
+        "patterns": [
+          "play some music",
+          "turn on music",
+          "start playing music",
+          "play music",
+          "i want to listen to music",
+          "music on",
+          "play the music",
+          "can you play tunes",
+          "start the music",
+          "get some music going",
+          "turn on the tunes",
+          "play something nice",
+          "music please",
+          "let’s hear some beats",
+          "activate music"
+        ]
+      },
+      {
+        "tag": "stop_music",
+        "patterns": [
+          "stop the music",
+          "turn off music",
+          "stop playing music",
+          "stop music",
+          "music off",
+          "no more music",
+          "pause the music",
+          "shut off the tunes",
+          "music stop",
+          "quiet now",
+          "end the music",
+          "can you stop the beats",
+          "turn the music off",
+          "silence the music",
+          "deactivate music"
+        ]
+      },
+      {
+        "tag": "lock_front_door",
+        "patterns": [
+          "lock the door",
+          "lock the front door",
+          "secure the door",
+          "door lock",
+          "make sure the door is locked",
+          "lock front door now",
+          "can you lock the door",
+          "secure the front",
+          "lock it up",
+          "close and lock the door",
+          "front door secure",
+          "lock everything",
+          "keep the door locked",
+          "activate door lock",
+          "bolt the door"
+        ]
+      },
+      {
+        "tag": "unlock_front_door",
+        "patterns": [
+          "unlock the door",
+          "unlock the front door",
+          "open the door",
+          "door unlock",
+          "can you unlock the door",
+          "unlock front door now",
+          "open the front door",
+          "unsecure the door",
+          "let me in",
+          "unlock it please",
+          "front door open",
+          "release the lock",
+          "i need the door unlocked",
+          "deactivate door lock",
+          "unbolt the door"
+        ]
+      },
+      {
+        "tag": "set_ac_temperature",
+        "patterns": [
+          "set temperature to 22",
+          "change temperature to 24 degrees",
+          "make it 20 degrees",
+          "set the ac to 25",
+          "change the thermostat to 23",
+          "i want it to be 21 degrees",
+          "set ac to 18",
+          "adjust temp to 26",
+          "make it 19 degrees",
+          "set the temperature 27",
+          "cool it to 22 degrees",
+          "heat to 24 please",
+          "ac at 20 degrees",
+          "temp 25 now",
+          "set climate to 23"
+        ]
+      },
+      {
+        "tag": "activate_movie_mode",
+        "patterns": [
+          "movie mode",
+          "activate movie mode",
+          "turn on movie mode",
+          "i want to watch a movie",
+          "set up for movie",
+          "movie time now",
+          "start movie night",
+          "cinema mode on",
+          "prepare for a film",
+          "movie mode please",
+          "let’s watch something",
+          "activate cinema",
+          "movie settings",
+          "film mode start",
+          "get ready for movies"
+        ]
+      },
+      {
+        "tag": "activate_night_mode",
+        "patterns": [
+          "night mode",
+          "activate night mode",
+          "turn on night mode",
+          "going to sleep",
+          "bedtime mode",
+          "sleep mode",
+          "night time now",
+          "set night settings",
+          "prepare for bed",
+          "sleep time",
+          "night mode on",
+          "i’m sleeping soon",
+          "calm the house",
+          "night settings",
+          "activate sleep"
+        ]
+      },
+      {
+        "tag": "activate_away_mode",
+        "patterns": [
+          "away mode",
+          "activate away mode",
+          "turn on away mode",
+          "i’m leaving",
+          "nobody home",
+          "secure the house",
+          "leaving now",
+          "away time",
+          "set away mode",
+          "i’m out",
+          "house empty",
+          "activate security",
+          "going away",
+          "lock up everything",
+          "away settings"
+        ]
+      },
+      {
+        "tag": "exit",
+        "patterns": [
+          "exit",
+          "quit",
+          "stop",
+          "goodbye",
+          "bye",
+          "that’s all",
+          "shut down",
+          "end now",
+          "i’m done",
+          "stop everything",
+          "see you later",
+          "turn off assistant",
+          "finish up",
+          "close it",
+          "good night"
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "hello",
+          "hi",
+          "hey",
+          "good morning",
+          "hi there",
+          "hello assistant",
+          "hey you",
+          "good afternoon",
+          "hi buddy",
+          "morning",
+          "hey assistant",
+          "hello there",
+          "hi hi",
+          "greetings",
+          "what’s up"
+        ]
+      },
+      {
+        "tag": "farewell",
+        "patterns": [
+          "goodbye",
+          "bye",
+          "see you",
+          "later",
+          "good night",
+          "catch you later",
+          "bye bye",
+          "see ya",
+          "take care",
+          "night night",
+          "so long",
+          "farewell",
+          "i’ll be back",
+          "good evening",
+          "laters"
+        ]
+      },
+      {
+        "tag": "status_check",
+        "patterns": [
+          "what’s the status",
+          "check the house",
+          "how’s everything",
+          "status update",
+          "tell me the status",
+          "what’s on",
+          "house status",
+          "give me an update",
+          "check everything",
+          "what’s running",
+          "status please",
+          "how’s the system",
+          "tell me what’s up",
+          "current status",
+          "report status"
+        ]
+      },
+      {
+        "tag": "help",
+        "patterns": [
+          "help",
+          "i need help",
+          "what can you do",
+          "how do i use this",
+          "assist me",
+          "help me out",
+          "what commands work",
+          "tell me how",
+          "i’m confused",
+          "give me help",
+          "what do i say",
+          "how does this work",
+          "help please",
+          "show me commands",
+          "guide me"
+        ]
+      }
+    ]
+  }
