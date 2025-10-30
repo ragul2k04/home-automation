@@ -13,12 +13,6 @@ import re
 from google.cloud import speech
 import io
 
-
-# 1. Initialize the app and socketio instance
-app = Flask(__name__)
-# CRITICAL: Specify the async mode to match the worker class
-socketio = SocketIO(app, async_mode='eventlet')
-
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -291,17 +285,6 @@ def listen_once():
         else:
             socketio.emit('command_result', {"message": "Sorry, I didn’t get that", "status": "error"})
 
-allowed_origins = os.environ.get("BACKEND_URL_RENDER").split(',') if os.environ.get("BACKEND_URL_RENDER") else ["*"]
-
-socketio = SocketIO(
-    app,
-    cors_allowed_origins=allowed_origins,
-    # Make sure to install eventlet or gevent!
-    async_mode='eventlet'
-)
-
-if __name__ == '__main__':
-    # Render's convention is to use the PORT env var
-    port = int(os.environ.get('PORT', 5001))
-    # It is critical to use a SocketIO production server (like eventlet/gevent)
-    socketio.run(app, host='0.0.0.0', port=port)
+if __name__ == "__main__":
+    print("Starting Voice Assistant with SocketIO on port 5001...")
+    socketio.run(app, host='0.0.0.0', port=5001)
