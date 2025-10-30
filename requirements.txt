@@ -7,3 +7,5 @@ scikit-learn
 gunicorn
 requests
 python-dotenv
+eventlet
+flask-socketio
