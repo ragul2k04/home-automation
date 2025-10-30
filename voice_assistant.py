@@ -13,6 +13,12 @@ import re
 from google.cloud import speech
 import io
 
+
+# 1. Initialize the app and socketio instance
+app = Flask(__name__)
+# CRITICAL: Specify the async mode to match the worker class
+socketio = SocketIO(app, async_mode='eventlet')
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
