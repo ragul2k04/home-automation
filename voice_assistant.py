@@ -285,6 +285,8 @@ def listen_once():
         else:
             socketio.emit('command_result', {"message": "Sorry, I didn’t get that", "status": "error"})
 
-if __name__ == "__main__":
-    print("Starting Voice Assistant with SocketIO on port 5001...")
-    socketio.run(app, host='0.0.0.0', port=5001)
+if __name__ == '__main__':
+    # Render's convention is to use the PORT env var
+    port = int(os.environ.get('PORT', 5001))
+    # It is critical to use a SocketIO production server (like eventlet/gevent)
+    socketio.run(app, host='0.0.0.0', port=port)
