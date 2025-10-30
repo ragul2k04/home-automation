@@ -285,6 +285,15 @@ def listen_once():
         else:
             socketio.emit('command_result', {"message": "Sorry, I didn’t get that", "status": "error"})
 
+allowed_origins = os.environ.get("BACKEND_URL_RENDER").split(',') if os.environ.get("BACKEND_URL_RENDER") else ["*"]
+
+socketio = SocketIO(
+    app,
+    cors_allowed_origins=allowed_origins,
+    # Make sure to install eventlet or gevent!
+    async_mode='eventlet'
+)
+
 if __name__ == '__main__':
     # Render's convention is to use the PORT env var
     port = int(os.environ.get('PORT', 5001))
